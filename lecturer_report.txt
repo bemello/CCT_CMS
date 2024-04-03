@@ -1,0 +1,62 @@
+Lecturer             Role                 Module                                   Number of Students  
+=========================================================================================================
+Amelia Jones         Senior Lecturer      Educational Psychology                   2                   
+Amelia Jones         Senior Lecturer      History of Western Philosophy            3                   
+Amelia Jones         Senior Lecturer      Social Work Policy & Community Development 1                   
+Amelia Jones         Senior Lecturer      Project Management for IT Professionals  4                   
+Ava Lewis            Associate Lecturer   Advanced Legal Research & Writing        2                   
+Benjamin Davies      Senior Lecturer      European History: Renaissance to Modern Era 5                   
+Charlotte Campbell   Programme Manager    Business Law for Managers                2                   
+Charlotte Campbell   Programme Manager    Electrical Circuits & Systems            2                   
+Chloe Lee            Associate Lecturer   Marketing Analytics & Consumer Behavior  3                   
+Chloe Lee            Associate Lecturer   Structural Analysis & Design             2                   
+Chloe Lee            Associate Lecturer   History of Education                     2                   
+Daniel Rodriguez     Programme Manager    Public Policy Analysis & Evaluation      1                   
+Daniel Rodriguez     Programme Manager    Epidemiology 101                         3                   
+Elijah Clark         Programme Manager    Digital Marketing Strategies             3                   
+Elijah Clark         Programme Manager    Philosophy of Mind & Language            3                   
+Emily Garcia         Professor            Cloud Computing & Virtualization         6                   
+Emily Garcia         Professor            Art History: Renaissance to Modern Era   1                   
+Emily Garcia         Professor            Software Engineering Principles          2                   
+Ethan Hernandez      Senior Lecturer      International Law & Human Rights         3                   
+Evelyn Edwards       Programme Manager    Literary Theory & Criticism              4                   
+Fiona Johnson        Programme Manager    International Trade & Finance            1                   
+Gabriel Miller       Professor            Database Management Systems              4                   
+Gabriel Miller       Professor            Introduction to Macroeconomics           3                   
+Hannah Wilson        Associate Lecturer   Thermodynamics & Fluid Mechanics         2                   
+Hannah Wilson        Associate Lecturer   Marketing Principles & Practices         2                   
+Hannah Wilson        Associate Lecturer   Art History: Ancient & Medieval Eras     1                   
+Isabella Moore       Programme Manager    Enterprise Architecture & Design         6                   
+Isabella Moore       Programme Manager    Social Work Practice with Individuals & Families 1                   
+Isabella Moore       Programme Manager    Classroom Management & Assessment        2                   
+Jack Taylor          Professor            Contract Law & Business Transactions     2                   
+Jack Taylor          Professor            Health Policy & Healthcare Reform        1                   
+Jasmine Thomas       Associate Lecturer   Advanced Strategic Management            1                   
+Jasmine Thomas       Associate Lecturer   Urban Planning & Development             6                   
+Liam Brown           Senior Lecturer      Clinical Decision-Making in Nursing      2                   
+Liam Brown           Senior Lecturer      Abnormal Psychology & Psychopathology    2                   
+Lily Anderson        Associate Lecturer   American History: Colonial Period to Civil War 5                   
+Logan Jackson        Associate Lecturer   Public Finance & Fiscal Policy           1                   
+Lucas Walker         Programme Manager    Brand Management & Advertising           3                   
+Madison Robinson     Senior Lecturer      Financial Accounting                     2                   
+Madison Robinson     Senior Lecturer      Engineering Mechanics & Statics          2                   
+Matthew Mitchell     Professor            Research Methods & Statistics for Social Work 1                   
+Matthew Mitchell     Professor            Curriculum Development & Instructional Design 2                   
+Mia Scott            Programme Manager    Biostatistics for Public Health          3                   
+Mia Martin           Associate Lecturer   Social Policy & Social Welfare           1                   
+Mia Scott            Programme Manager    Environmental Policy & Law               2                   
+Mia Scott            Programme Manager    Philosophy of Science & Technology       3                   
+Michael Young        Professor            World History: From Antiquity to the Present 5                   
+Michael Young        Professor            Introduction to Algorithms               4                   
+Noah Allen           Associate Lecturer   American History: Reconstruction to the Present 5                   
+Noah Allen           Associate Lecturer   Introduction to Philosophy: Ethics       3                   
+Noah Allen           Associate Lecturer   Global Health Challenges                 5                   
+Olivia King          Senior Lecturer      Sustainable Architecture & Design        6                   
+Olivia King          Senior Lecturer      Introduction to Business Management      2                   
+Olivia King          Senior Lecturer      Social Media Marketing & Communication   3                   
+Sophia Wright        Programme Manager    Agile Project Management Methodologies   4                   
+Sophia Wright        Programme Manager    Public Health Policy & Advocacy          5                   
+Sophia Wright        Programme Manager    Social Work in the Global Context        1                   
+Sophia Wright        Programme Manager    Art History: Non-Western Traditions      1                   
+William Lopez        Senior Lecturer      Econometrics & Data Analysis             1                   
+William Lopez        Senior Lecturer      Machine Learning Fundamentals            1                   
