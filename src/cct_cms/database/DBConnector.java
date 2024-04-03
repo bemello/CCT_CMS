@@ -16,7 +16,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 /**
  *
- * @author bemello
+ * @author bemello - GITHUB Repo : https://github.com/bemello/CCT_CMS
  */
 public class DBConnector {
     

@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 /** 
  *
- * @author bemello
+ * @author bemello - GITHUB Repo : https://github.com/bemello/CCT_CMS
  */
 public class Application {
 
@@ -59,6 +59,7 @@ public class Application {
 
     /**
      * @param args the command line arguments
+     * @author bemello - GITHUB Repo : https://github.com/bemello/CCT_CMS
      */
     public static void main( String[] args ) {
         
